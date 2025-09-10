@@ -13,3 +13,7 @@ This file contains basic Linux terminal commands I’ve learned so far.
 | `rm`        | Remove files or directories        |
 | `cp`        | Copy files or directories          |
 | `mv`        | Move or rename files               |
+| 'cal'       | Show Calendar                      |
+| 'Uname'     | Show OS                            |
+| 'pwd'       | Present Working Directory          |
+|
